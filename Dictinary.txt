@@ -1,0 +1,12 @@
+minenash
+nsint
+int
+this?????
+cos
+quaternary
+quinary
+senary
+sevennary
+nonnary
+javadoc
+ex
